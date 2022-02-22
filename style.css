@@ -169,15 +169,15 @@ ul {
     .container {
         display: flex;
         flex-direction: column;
-        margin-top: 450px;
+        margin-top: 150px;
         align-items: center;
     }
     .box1, .box2, .box3 {
-        margin: 0 0 -50px 0;
+        margin: 0 0 -75px 0;
         transform: scale(0.8);
     }
     .box1:hover, .box2:hover, .box3:hover {
-        transform: scale(0.87);
+        transform: scale(0.85);
     }
     h1 {
         font-size: 45px;
@@ -200,10 +200,6 @@ ul {
         margin-bottom: 0;
     }
     .container {
-        margin-top: 300px;
-        transform: scale(0.6);
-    }
-    .box1:hover, .box2:hover, .box3:hover {
-        transform: scale(0.7);
+        margin-top: 150px;
     }
 }
