@@ -169,7 +169,7 @@ ul {
     .container {
         display: flex;
         flex-direction: column;
-        margin-top: 0px;
+        margin-top: 200px;
         align-items: center;
     }
     .box1, .box2, .box3 {
@@ -200,6 +200,6 @@ ul {
         margin-bottom: 0;
     }
     .container {
-        margin-top: -50px;
+        margin-top: 150px;
     }
 }
