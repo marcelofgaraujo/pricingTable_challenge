@@ -169,7 +169,7 @@ ul {
     .container {
         display: flex;
         flex-direction: column;
-        margin-top: 150px;
+        margin-top: 225px;
         align-items: center;
     }
     .box1, .box2, .box3 {
@@ -198,8 +198,5 @@ ul {
     .sub {
         font-size: 15px;
         margin-bottom: 0;
-    }
-    .container {
-        margin-top: 150px;
     }
 }
