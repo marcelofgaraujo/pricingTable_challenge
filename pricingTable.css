@@ -147,7 +147,7 @@ li {
     font-weight: 600;
 }
 ul {
-    list-style: url(../check.svg);
+    list-style: url(check.svg);
 }
 .butfree {
     margin-top: 87px;
