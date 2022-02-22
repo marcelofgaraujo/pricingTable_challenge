@@ -201,5 +201,9 @@ ul {
     }
     .container {
         margin-top: 300px;
+        transform: scale(0.6);
+    }
+    .box1:hover, .box2:hover, .box3:hover {
+        transform: scale(0.7);
     }
 }
