@@ -147,7 +147,7 @@ li {
     font-weight: 600;
 }
 ul {
-    list-style: url(./assets/check.svg);
+    list-style: url('./assets/check.svg');
 }
 .butfree {
     margin-top: 93px;
