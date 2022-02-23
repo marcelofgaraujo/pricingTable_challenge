@@ -161,9 +161,10 @@ ul {
     header {
         width: 100vw;
         text-align: center;
+        margin-top: 0;
     }
     main {
-        height: 75vh;
+        height: 85vh;
         width: 100vw;
     }
     .container {
@@ -186,6 +187,7 @@ ul {
         font-size: 45px;
         padding-top: 0.3vh;
         margin-top: 0;
+        margin-bottom: 0;
     }
     .sub {
         font-size: 20px;
