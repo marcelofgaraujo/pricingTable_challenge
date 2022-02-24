@@ -14,4 +14,4 @@
 <p>In this challenge I could practice what I've learned about HTML and CSS studying in <a target="_blank" href="https://www.rocketseat.com.br">RocketSeat</a> platform in the last weeks.<br>Use of responsive units in CSS and variable colors.<br>Insertion of all the style through CSS, making HTML clean.<br>Different order for desktop and mobile previews.</p>
 
 <h3>License</h3>
-<p>This project is under <a target="_blank" href="https://github.com/marcelofgaraujo/pricingTable_challenge/blob/main/LICENSE">MIT License</a>.</p>
+<p>This project is under <a target="_blank" href="https://github.com/marcelofgaraujo/RocketNews_challenge/blob/main/LICENSE">MIT License</a>.</p>
